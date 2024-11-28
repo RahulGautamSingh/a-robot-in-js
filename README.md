@@ -1,5 +1,5 @@
 # Description
-[link]([url](https://eloquentjavascript.net/07_robot.html))
+[link](https://eloquentjavascript.net/07_robot.html)
 Robo postman is an automation in the virtual world. It's task is to collect and deliver mails in the virtual world.
 
 Name of Virtual World: Meadowfield Village 
